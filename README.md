@@ -10,6 +10,10 @@ Packages:
 
 ## Installation
 
+[Get the extension on the marketplace](https://marketplace.visualstudio.com/items?itemName=MarcoSeguri.deepl-formatter).
+
+### Manual installation
+
 Create the vsix:
 
     vsce package
