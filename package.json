@@ -3,6 +3,7 @@
 	"displayName": "Deepl formatter",
 	"description": "A formatter for text to be pasted into Deepl",
 	"version": "0.0.1",
+    "repository": "github:seguri/deepl-formatter",
 	"engines": {
 		"vscode": "^1.63.0"
 	},
