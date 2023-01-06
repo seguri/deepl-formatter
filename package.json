@@ -4,6 +4,7 @@
 	"description": "A formatter for text to be pasted into Deepl",
 	"version": "0.0.1",
     "repository": "github:seguri/deepl-formatter",
+    "license": "Apache-2.0",
 	"engines": {
 		"vscode": "^1.63.0"
 	},
