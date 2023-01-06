@@ -5,6 +5,8 @@
 	"version": "0.0.1",
     "repository": "github:seguri/deepl-formatter",
     "license": "Apache-2.0",
+    "publisher": "MarcoSeguri",
+    "price": "Free",
 	"engines": {
 		"vscode": "^1.63.0"
 	},
